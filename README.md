@@ -16,6 +16,15 @@ Java introduces enough latency that I wouldn't want to use it for a real time so
 Swing is pretty clunky, and I wouldn't want to use it for my full project.
 Beads is actually a good library, and has useful documentation for people who have never build a synth before
 Additive synthesis would quickly get expensive if I wanted to create realistic sounding instruments--this is easier to
-achieve with either samples or modular synthesis, most likely FM synthesis. 
+achieve with either samples or modular synthesis, most likely FM synthesis.
+
+# Instructions
+Play TinyKeys using the keyboard as though it were a piano keyboard.
+A plays middle C
+W plays C#
+S plays D
+etc.
+
+Adding attack and decay is handled though the GUI, as is changing the type of waveform.
 
 
