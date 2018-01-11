@@ -14,7 +14,7 @@ often less than that.)
 # Lessons learned
 Java introduces enough latency that I wouldn't want to use it for a real time software synth.
 Swing is pretty clunky, and I wouldn't want to use it for my full project.
-Beads is actually a good library, and has useful documentation for people who have never build a synth before
+Beads is actually a good library, and has useful documentation for people who have never build a synth before.
 Additive synthesis would quickly get expensive if I wanted to create realistic sounding instruments--this is easier to
 achieve with either samples or modular synthesis, most likely FM synthesis.
 
