@@ -20,9 +20,9 @@ achieve with either samples or modular synthesis, most likely FM synthesis.
 
 # Instructions
 Play TinyKeys using the keyboard as though it were a piano keyboard.
-A plays middle C
-W plays C#
-S plays D
+A plays middle C.
+W plays C#.
+S plays D.
 etc.
 
 Adding attack and decay is handled though the GUI, as is changing the type of waveform.
